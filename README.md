@@ -1,4 +1,8 @@
 <h1 align="center"><b>こんにちは、レオナルドです <i>"TheShac"</i> </b><img src="https://media.tenor.com/Ml9nU_gxxZ0AAAAC/raiden-shogun-ei-sip-boba.gif" width="35"></h1>
+<br>
+<p align="center"> 
+  <img src="images1.jpg" width="300" alt="ShogunRaiden">
+</p>
 
 <br>
 <h2 >Lenguajes de programación</h2>
