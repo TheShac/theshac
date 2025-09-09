@@ -2,6 +2,7 @@
 <br>
 <p align="center"> 
   <img src="images1.jpg" width="300" alt="ShogunRaiden">
+  <img src="shogunEI.jpg" width="300" alt="ShogunRaiden">
 </p>
 
 <br>
