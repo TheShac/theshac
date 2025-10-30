@@ -6,11 +6,13 @@
 </p>
 
 <br>
-<h2 >Lenguajes de programación</h2>
+<h2 >Lenguajes de programación y Frameworks</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,ts,js,nodejs,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,ts,js,&perline=12" /> 
+    <br> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,vue,react&perline=12" />
   </a>
 </p>
 <br>
@@ -20,7 +22,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,angular,vue,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,discord,figma&perline=12" />
   </a>
 </p>
 <br>
