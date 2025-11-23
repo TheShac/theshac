@@ -3,7 +3,7 @@
 <!--<p align="center"> 
   <img src="images1.jpg" width="300" alt="ShogunRaiden">
   <img src="shogunEI.jpg" width="300" alt="ShogunRaiden">
-</p>-->
+</p>
 <h3>
   Estudiante de Ingenieria civil en Computación e Informatica, con experiencia en Desarrollo Web con JavaScript | TypeScript | ReactJS | Angular | VueJS | NodeJS + Express
 </h3>
@@ -11,7 +11,7 @@
   Contacto: <br> <br>
   <img src="https://skillicons.dev/icons?i=gmail&perline=12" /> <strong>leonardo.rodriguez.lagos@gmail.com</strong> <br>
   <img src="https://skillicons.dev/icons?i=instagram&perline=12" /> <a href="https://www.instagram.com/theshac_tl/"><strong>@theshac_tl</strong></a> <br>
-</h3>
+</h3>-->
 
   
 <br>
