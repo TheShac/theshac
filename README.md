@@ -48,18 +48,14 @@
   <!--- stats (start) -->
   <table align="left">
     <tr border="none">
-      <td width="60%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TheShac&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheShac&theme=dark&hide_border=false" /> 
+     <!--- <td width="60%" align="center">
+         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TheShac&theme=dark&show_icons=true&count_private=true" />
+        <br></br>-->
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheShac&theme=dark&hide_border=true&locale=es&mode=weekly" alt="GitHub Streak" /></a>      
       </td>
-
-  <td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TheShac&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
+      <td width="40%" align="center">
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TheShac&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
     </tr>
   </table>
 <!--- stats (end) -->
