@@ -1,46 +1,47 @@
-<h1 align="center"><b>こんにちは、レオナルドです <i>"TheShac"</i> </b><img src="https://media.tenor.com/Ml9nU_gxxZ0AAAAC/raiden-shogun-ei-sip-boba.gif" width="35"></h1>
+<h1 align="center"> <b>こんにちは、レオナルドです <i>"TheShac"</i> </b> </h1>
 
-<!--<p align="center"> 
-  <img src="images1.jpg" width="300" alt="ShogunRaiden">
-  <img src="shogunEI.jpg" width="300" alt="ShogunRaiden">
+<p align="center">
+  <b>Desarrollador Full Stack e Ingeniero de IA</b><br />
+  Arica, Chile
 </p>
-<h3>
-  Estudiante de Ingenieria civil en Computación e Informatica, con experiencia en Desarrollo Web con JavaScript | TypeScript | ReactJS | Angular | VueJS | NodeJS + Express
-</h3>
-<h3>
-  Contacto: <br> <br>
-  <img src="https://skillicons.dev/icons?i=gmail&perline=12" /> <strong>leonardo.rodriguez.lagos@gmail.com</strong> <br>
-  <img src="https://skillicons.dev/icons?i=instagram&perline=12" /> <a href="https://www.instagram.com/theshac_tl/"><strong>@theshac_tl</strong></a> <br>
-</h3>-->
 
-  
-<br>
-<h2 >Lenguajes de programación y Frameworks</h2>
-<!--tech stack icons-->
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=css,html,ts,js,&perline=12" /> 
-    <br> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,angular,vue,react&perline=12" />
+<p align="center">
+  <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portafolio-D89B3C?style=for-the-badge" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-rodriguez-8a205b274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:leonardo.rodriguez.lagos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.instagram.com/theshac_tl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram" /></a>
 </p>
-<br>
-<!-------------------------->
 
-<h2 >Tecnologías y otras herramientas</h2>
-<!--tech stack icons-->
-<p align="left">
-  <h3>Gestor de base de datos</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,&perline=12" />
-  </a>
-  <h3>Control de versiones</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,&perline=12" />
-  </a>
-  <h3>Comunicación, Prototipado y Editor de codigo</h3>
-  <img src="https://skillicons.dev/icons?i=discord,figma,vscode,trello,jira,&perline=12" />  
-</p>
-<br>
-<!-------------------------->
+## Sobre mí
+
+Estudiante de Ingeniería Civil en Computación e Informática, con +1 año de experiencia construyendo aplicaciones web completas, del modelo de datos a la interfaz. Me interesa llevar un producto hasta producción para que lo use gente real: sistemas de acreditación universitaria, un e-commerce y un calendario de anime, entre otros.
+
+## Ahora mismo
+
+- Desarrolando el sistema **Privacy IA**, una plataforma que usa IA para apoyar la gestión de riesgos de privacidad y protección de datos. Construyo el sistema **RAG**, siempre con supervisión humana.
+
+## Proyectos destacados
+
+| Proyecto | Qué hace | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **Sistema de Gestión Académica, Postgrado en Historia UTA** | Registro y verificación de producción académica para la acreditación; en uso por académicos del programa | React, Express, MySQL | [Código](https://github.com/TheShac/Practica-1/tree/develop) |
+| **Manga Store TL** | E-commerce con carrito de invitado, reseñas verificadas por compra y panel de administración | React, Express, MySQL | [Código](https://github.com/TheShac/Proyecto-MSTL) |
+| **Anime Calendar** | Calendario de los animes en emisión, generado con la API de MyAnimeList | React, Tailwind, Express, PostgreSQL | [Código](https://github.com/TheShac/Anime-Calendar) / [Demo](https://anime-calendar-dun.vercel.app/) |
+| **Insumos Médicos** | Microservicios con Kafka, desplegados con Docker Compose y Kubernetes (K3s) | Vue, Node.js, PostgreSQL, Docker | [Código](https://github.com/TheShac/Proyecto-Insumos-M-dicos) |
+
+## Stack
+
+**Lenguajes y frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,angular,tailwind,bootstrap,astro&perline=10" alt="Lenguajes y frontend" />
+
+**Backend y bases de datos**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres&perline=10" alt="Backend y bases de datos" />
+
+**DevOps y herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,figma,jira,trello&perline=10" alt="DevOps y herramientas" />
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
