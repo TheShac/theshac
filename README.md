@@ -16,10 +16,6 @@
 
 Estudiante de Ingeniería Civil en Computación e Informática, con +1 año de experiencia construyendo aplicaciones web completas, del modelo de datos a la interfaz. Me interesa llevar un producto hasta producción para que lo use gente real: sistemas de acreditación universitaria, un e-commerce y un calendario de anime, entre otros.
 
-## Ahora mismo
-
-- Desarrolando el sistema **Privacy IA**, una plataforma que usa IA para apoyar la gestión de riesgos de privacidad y protección de datos. Construyo el sistema **RAG**, siempre con supervisión humana.
-
 ## Proyectos destacados
 
 | Proyecto | Qué hace | Stack | Links |
